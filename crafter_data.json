@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "id": "minecraft:iron_ingot",
+            "damage": 0,
+            "name": "Железный слиток",
+            "craft_amount": 64,
+            "keep_amount": 128,
+            "enabled": true
+        },
+        {
+            "id": "minecraft:diamond",
+            "damage": 0,
+            "name": "Алмаз",
+            "craft_amount": 32,
+            "keep_amount": 64,
+            "enabled": true
+        },
+        {
+            "id": "minecraft:gold_ingot",
+            "damage": 0,
+            "name": "Золотой слиток",
+            "craft_amount": 64,
+            "keep_amount": 64,
+            "enabled": true
+        }
+    ]
+}
